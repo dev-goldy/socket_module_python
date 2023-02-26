@@ -1,4 +1,4 @@
-#check for free port numbers if your using in termux 
+#check for free port numbers if your using in termux  
 import socket
 
 s = socket.socket()
