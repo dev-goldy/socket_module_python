@@ -1,2 +1,3 @@
 # socket_module_python
-simple  server and client connection in python socket module 
+[  start server first then one of the clients to start convo ]
+[ simple  server and client connection in python socket module ]
